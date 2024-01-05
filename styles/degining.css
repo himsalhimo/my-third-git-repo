@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+.first{
+    color: blue;
+    font-size: 28px;
+    margin:30px;
+    margin-left: 70px;
+    border: 3px solid blue ;
+    border-radius: 8px;
+}
+
+.second{
+    color: green;
+    font-size: 28px;
+    margin:30px;
+    margin-left: 70px;
+    border: 3px solid green;
+    border-radius: 8px;
+}
+
+.third{
+    color: red;
+    font-size: 28px;
+    margin:30px;
+    margin-left: 70px;
+    border: 3px solid red;
+    border-radius: 8px;
+}
+
+.fourth{
+    background-color: maroon;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    border: 8px solid magenta;
+    border-radius: 10px;
+}
